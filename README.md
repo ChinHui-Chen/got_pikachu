@@ -28,3 +28,7 @@ bazel build tensorflow/examples/image_retraining:retrain
 mogrify -format jpg *.png
 
 
+
+# Discussion
+
+https://hackpad.com/2016-Got-Pikachu-zigftgEpMYU
